@@ -27,8 +27,8 @@ const slides = [
   {
     id: 4,
     speaker: "Speaker 4",
-    title: "Atsteklar va Jangchi Martabasi",
-    text: "1325-yilda Tenochtitlan shahriga asos solindi. Atsteklarda o'smir yigitlar birinchi asirini tutmaguncha sochlarini olishiga ruxsat berilmagan. Jangchining martabasi asirlar soniga bog'liq bo'lgan.",
+    title: "Atsteklar",
+    text: "1325-yilda Tenochtitlan shahriga asos solindi. Ittifoqdoshlar:Teskoko va Tlakopan shaharlari bilan Tepaneklarga qarshi urushgan,Birinchi tlatoani 1376-yilda, Hukmdorlari:Montezuma I(qurulishga etibor bergan,Atstek ibodatxonasi tiklangan) va II(yangi yerlarni bosib olishga harakat qilgan,uni davrida ittifoqdagi shaharlar bilan munosabatlar yomonlashib zaifligida Ispan konkistadorlari tomonidan 1521-yilda bosib olingan)",
     video: "./video4.mp4"
   },
   {
